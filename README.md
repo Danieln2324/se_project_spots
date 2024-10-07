@@ -1,21 +1,41 @@
-# Project 3: Spots
+# Spots - sprint 3
 
-### Overview  
+## Description
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+Spots is what Instagram use to be back in the day. It is an Image sharing Website that allows different users to share their favorite pictures. It allows users to like other shared images on the platform as well. The more likes you get, the more users have seen and interacted with your profile. Pretty cool!
+
+## Tech stack
+
+- HTML
+- CSS
+- Responsive Design
+
+## Pictures
+
+Because we used grid and flexbox displays, the website is easily responsive accross different devices.
+
+Below will have:
+
+- Phone view
+- Tablet view
+- Desktop view
+
+**Mobile view**
+
+<img src="./images/mobile-view.png" >
+
+**Tablet view**
+
+<img src="./images/tablet-view.png" >
+
+**Desktop view**
+
+<img src="./images/desktop-view.png">
+
+## Deployment
+
+This webpage is deployed to GitHub Pages
+
+- Check out the link here: https://github.com/Danieln2324/se_project_spots.git
+
+[def]: ../figures/my_screenshot.png
