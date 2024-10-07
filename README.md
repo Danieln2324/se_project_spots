@@ -36,6 +36,4 @@ Below will have:
 
 This webpage is deployed to GitHub Pages
 
-- Check out the link here: https://github.com/Danieln2324/se_project_spots.git
-
-[def]: ../figures/my_screenshot.png
+- [Live website](https://danieln2324.github.io/se_project_spots/)
