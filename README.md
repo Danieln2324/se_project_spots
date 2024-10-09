@@ -37,3 +37,5 @@ Below will have:
 This webpage is deployed to GitHub Pages
 
 - [Live website](https://danieln2324.github.io/se_project_spots/)
+
+- [Spot Video](https://drive.google.com/file/d/1xrx_pt9pv9cZ7Ce98aL4mtZSmWkTRhql/view?usp=sharing)
