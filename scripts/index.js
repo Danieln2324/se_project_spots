@@ -37,7 +37,7 @@ const editModalNameInput = editModal.querySelector("#profile__name-input");
 const editModalDescriptionInput = editModal.querySelector(
   "#profile__description-input"
 );
-const editFormElement = editModal.querySelector(".modal__form");
+const editFormElement = document.forms["modal-form-container"];
 
 const cardTemplate = document.querySelector("#card-template");
 const cardsList = document.querySelector(".cards__list");
@@ -52,6 +52,7 @@ function getCardElement(data) {
 
   cardImageEl.src = data.link;
   cardImageEl.alt = data.name;
+
   cardNameEl.textContent = data.name;
 
   return cardElement;

@@ -28,7 +28,7 @@
           <div class="profile__column">
             <h1 class="profile__name">Bessie Coleman</h1>
             <p class="profile__description">Civil Aviator</p>
-            <button type="button" class="profile__edit-btn">
+            <button type="text" class="profile__edit-btn">
               <img
                 class="profile__pencil-icon"
                 src="./images/pencil.svg"
@@ -51,7 +51,7 @@
                 <img src="" alt="" class="card__image" />
                 <div class="card__content">
                   <h2 class="card__title"></h2>
-                  <button type="button" class="card__like-button"></button>
+                  <button type="text" class="card__like-button"></button>
                 </div>
               </li>
             </template>
@@ -65,11 +65,15 @@
         <div class="modal__container">
           <div class="modal__header">
             <h2 class="modal__title">Edit profile</h2>
-            <button type="submit" class="modal__close-btn">
+            <button type="text" class="modal__close-btn">
               <img src="./images/x.svg" alt="" />
             </button>
           </div>
-          <form name="edit-profile" class="modal__form">
+          <form
+            name="edit-profile"
+            class="modal__form"
+            id="modal-form-container"
+          >
             <label for="profile__name-input" class="modal__label">
               Name
               <input
